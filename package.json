@@ -1,0 +1,16 @@
+{
+  "name": "mcboatface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "author": "Bret Little",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.7.0"
+  },
+  "type": "module"
+}

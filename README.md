@@ -8,5 +8,6 @@ This consists of two main programs:
 ## Setup
 
 1. Make sure Node 16 or greater is installed (both for the server and client).
-2. Start the server: `npm run server`
-3. Start the client: `npm run client`
+2. Run `npm install`
+3. Start the server: `npm run server`
+4. Start the client: `npm run client`
